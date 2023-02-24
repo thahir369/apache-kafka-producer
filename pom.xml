@@ -9,10 +9,10 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
 
-  <groupId>com.helloWorld</groupId>
-  <artifactId>kafka-producer-hbk</artifactId>
+  <groupId>com.halloWorld</groupId>
+  <artifactId>apache-kafka-producer</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>kafka-producer-hbk</name>
+  <name>apache-kafka-producer</name>
   <description>Publish student details to student-topic using apache kafka</description>
 
   <properties>

@@ -1,4 +1,4 @@
-# kafka-producer-hbk
+# apache-kafka-producer
 
 * It is a simple producer application which publish student's data to student-topic using apache kafka
 * sample payload is added in resource folder for testing purpose
